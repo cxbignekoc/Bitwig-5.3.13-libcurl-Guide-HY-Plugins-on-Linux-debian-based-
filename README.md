@@ -49,7 +49,7 @@ This is tested in MX Linux 23.6 (a debian-based Distribution)
 	__7.__ You are half-done. Now open the Terminal, go to the Path with your ## Plugin.so ## file in .vst. 
 	You can do this via Dolphin "Open Terminal Here" or set the Path manually.
 	Attention HY-Plugin-Developer uses Space in Names, you need the "\" after Word and before Space.
-	ls= List what is in a PAth
+	ls= List what is in a Path
 	cd= call the Path
 
 ### Example
