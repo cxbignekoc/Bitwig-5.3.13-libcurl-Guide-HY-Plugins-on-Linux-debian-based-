@@ -8,7 +8,7 @@ But there is no detailed Guid, now here it is. (i send this to the Developer as 
 
 This is tested in MX Linux 23.6 Debian based
 
-System:
+> System:
   Kernel  : 6.17.13-1-liquorix-amd64 [6.17-15~mx23ahs] arch: x86_64 bits: 64 compiler: gcc v: 12.2.0
   Desktop : KDE Plasma v: 5.27.5 tk: Qt v: 5.15.8 wm: kwin_x11 vt: 7 dm: SDDM
   Distro  : MX-23.6_ahs_x64 Libretto Jan 12 2025 base: Debian GNU/Linux 12 (bookworm)
@@ -43,13 +43,13 @@ __7.__ If you are half-done. Now open the Terminal, got the Path with your Plugi
 ls= List what is in a PAth
 cd= call the Path
 
-x@mx:/
-$ cd ~/.vst3/HY-POLY\ free\ Linux/HY-POLY\ free.vst3/Contents/x86_64-linux
-mx@mx:~/.vst3/HY-POLY free Linux/HY-POLY free.vst3/Contents/x86_64-linux
-$ ls 
-'HY-POLY free.so'
-mx@mx:~/.vst3/HY-POLY free Linux/HY-POLY free.vst3/Contents/x86_64-linux
-$ patchelf --replace-needed libcurl-gnutls.so.4 libcurl.so.4 HY-POLY\ free.so
+>x@mx:/
+>$ cd ~/.vst3/HY-POLY\ free\ Linux/HY-POLY\ free.vst3/Contents/x86_64-linux
+>mx@mx:~/.vst3/HY-POLY free Linux/HY-POLY free.vst3/Contents/x86_64-linux
+>$ ls 
+>'HY-POLY free.so'
+>mx@mx:~/.vst3/HY-POLY free Linux/HY-POLY free.vst3/Contents/x86_64-linux
+>$ patchelf --replace-needed libcurl-gnutls.so.4 libcurl.so.4 HY-POLY\ free.so
 
 __8.__ Restart Bitwig
 
