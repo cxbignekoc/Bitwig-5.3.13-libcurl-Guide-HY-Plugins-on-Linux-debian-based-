@@ -7,8 +7,7 @@ in the Read Me Files inside the Plugin Package.
 But there is no detailed Guid, now here it is. (i send this to the Developer as well)
 
 This is tested in MX Linux 23.6 Debian based
-
-> System:
+``System:
   Kernel  : 6.17.13-1-liquorix-amd64 [6.17-15~mx23ahs] arch: x86_64 bits: 64 compiler: gcc v: 12.2.0
   Desktop : KDE Plasma v: 5.27.5 tk: Qt v: 5.15.8 wm: kwin_x11 vt: 7 dm: SDDM
   Distro  : MX-23.6_ahs_x64 Libretto Jan 12 2025 base: Debian GNU/Linux 12 (bookworm)
@@ -20,7 +19,7 @@ Grafik-Plattform       : X11
 Prozessoren            : i5-14600K
 Speicher               : 62,6 GiB Arbeitsspeicher
 Grafikprozessor        : NVIDIA GeForce RTX 4070 Ti SUPER/PCIe/SSE2
-
+```
 ## Guide:
 
 __1.__ Download, unpack the HY-Plugin Packages
