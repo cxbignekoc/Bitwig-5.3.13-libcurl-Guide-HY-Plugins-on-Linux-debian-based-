@@ -33,7 +33,7 @@ __5.__ Open Setting -> Plugins click on [Show Plugin Errors] (or similar)
 
 Here you see the Error. 
 
-<img width="1536" height="864" alt="Screenshot_20251228_215017" src="https://github.com/user-attachments/assets/3f1f73b3-d2e5-4cc1-a64c-6bf4b5ca6aa2" />
+<img width="825" height="804" alt="Screenshot_20251228_215021" src="https://github.com/user-attachments/assets/ff9b8af9-7366-43af-a2e1-ae12deda78a4" />
 
 __6.__ Close Bitwig and open Synaptic, check if you have __libcurl4 + libcurl4-gnutls + libcurl4:i386 + patchelf__ installed, if not mark the pakets and install it:
    
