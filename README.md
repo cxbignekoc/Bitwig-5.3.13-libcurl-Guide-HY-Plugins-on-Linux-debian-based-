@@ -1,4 +1,7 @@
-# Bitwig-5.3.13-libcurl-Guide-HY-Plugins-on-Linux-debian-based-
+# Bitwig-5.3.13-libcurl-Guide-HY-Plugins-on-Linux-debian-based
+
+	## The Main Command you ececute in the Plugin.so Folder:
+	## $ patchelf --replace-needed libcurl-gnutls.so.4 libcurl.so.4 Plugin.so
 
 This is a Solution for HY- Plugin for Bitwig 5.3.13 in Linux (Debian-based)
 
@@ -15,7 +18,7 @@ This is tested in MX Linux 23.6 Debian based
 	>Distro  : MX-23.6_ahs_x64 Libretto Jan 12 2025 base: Debian GNU/Linux 12 (bookworm)
 
 
-	>KDE-Plasma-Version     : 5.27.5<
+	>KDE-Plasma-Version     : 5.27.5
 	>KDE-Frameworks-Version : 5.103.0
 	>Qt-Version             : 5.15.8
 	>Grafik-Plattform       : X11
@@ -23,7 +26,7 @@ This is tested in MX Linux 23.6 Debian based
 	>Speicher               : 62,6 GiB Arbeitsspeicher
 	>Grafikprozessor        : NVIDIA GeForce RTX 4070 Ti SUPER/PCIe/SSE2
 
-## Guide:
+## The Long Guide:
 
 	__1.__ Download, unpack the HY-Plugin Packages
 	__2.__ Drop the Plugin Folder into your HOME Folder  ~/.vst
