@@ -10,7 +10,7 @@ in the Read Me Files inside the Plugin Package.
 
 But there is no detailed Guid, now here it is. (i send this to the Developer as well)
 
-This is tested in MX Linux 23.6 Debian based
+This is tested in MX Linux 23.6 (a debian-based Distribution)
 
 	>System:
 	>Kernel  : 6.17.13-1-liquorix-amd64 [6.17-15~mx23ahs] arch: x86_64 bits: 64 compiler: gcc v: 12.2.0
