@@ -29,7 +29,7 @@ This is tested in MX Linux 23.6 (a debian-based Distribution)
 ## The Long Guide:
 
 	__1.__ Download, unpack the HY-Plugin Packages
-	__2.__ Drop the Plugin Folder into your HOME Folder  ~/.vst
+	__2.__ Drop the Plugin Folder into your HOME Folder  ~/.vst3
 	__3.__ Drop the Presets Folder into your HOME Folder ~/.config
 	__4.__ Open Bitwig an search for HY if it is listed you are probably fine, if not
 	__5.__ Open Setting -> Plugins click on [Show Plugin Errors] (or similar)
@@ -46,7 +46,7 @@ This is tested in MX Linux 23.6 (a debian-based Distribution)
 
 <img width="1715" height="926" alt="Screenshot_20251228_220242" src="https://github.com/user-attachments/assets/d63652b4-cc68-4587-9253-79ee2bba4fc8" />
 
-	__7.__ You are half-done. Now open the Terminal, go to the Path with your ## Plugin.so ## file in .vst. 
+	__7.__ You are half-done. Now open the Terminal, go to the Path with your ## Plugin.so ## file in .vst3. 
 	You can do this via Dolphin "Open Terminal Here" or set the Path manually.
 	Attention HY-Plugin-Developer uses Space in Names, you need the "\" after Word and before Space.
 	ls= List what is in a Path
