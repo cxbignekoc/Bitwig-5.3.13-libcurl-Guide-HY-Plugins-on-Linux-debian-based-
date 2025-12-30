@@ -1,6 +1,6 @@
 # Bitwig-5.3.13-libcurl-Guide-HY-Plugins-on-Linux-debian-based
 
-	## The Main Command you ececute in the Plugin.so Folder:
+	## The Main Command you execute in the Plugin.so Folder:
 	## $ patchelf --replace-needed libcurl-gnutls.so.4 libcurl.so.4 Plugin.so
 
 This is a Solution for HY- Plugin for Bitwig 5.3.13 in Linux (Debian-based)
@@ -8,7 +8,7 @@ This is a Solution for HY- Plugin for Bitwig 5.3.13 in Linux (Debian-based)
 If you have any Issues with your HY-Plugins try this Solution what is also mentioned
 in the Read Me Files inside the Plugin Package.
 
-But there is no detailed Guid, now here it is. (i send this to the Developer as well)
+But there is no detailed Guide, now here it is. (i send this to the Developer as well)
 
 This is tested in MX Linux 23.6 (a debian-based Distribution)
 
